@@ -1,0 +1,92 @@
+{
+    "password": "$2y$10$8aWBY9N2w6lH80AuSZ3ZxuUyxRn.OeecUF0EYtt61PGcDNSCcTAzW",
+    "profile_photo": "uploads/profile_photo_1792669838_fed4d1.png",
+    "cv_path": "",
+    "cv_path_en": "",
+    "allow_proof_downloads": true,
+    "hero": {
+        "tag": {
+            "fr": "",
+            "en": ""
+        },
+        "first_name": "DÉLICE REBECCA",
+        "last_name": "NSI AKIGUE",
+        "role": {
+            "fr": "Ingénieure en cybersécurité",
+            "en": "Cybersecurity Engineer"
+        },
+        "lede": {
+            "fr": "a la recherche d'une opportunité de travail",
+            "en": "looking for a work opportunity"
+        },
+        "brand_sub": {
+            "fr": "",
+            "en": ""
+        },
+        "tech": "",
+        "note1": {
+            "fr": "",
+            "en": ""
+        },
+        "note2": {
+            "fr": "",
+            "en": ""
+        },
+        "stats": []
+    },
+    "profile": {
+        "title": "",
+        "text1": "",
+        "text2": ""
+    },
+    "about_cards": [
+        {
+            "icon": "spark",
+            "label": {
+                "fr": "Un profil  sécurité",
+                "en": "A security profile"
+            },
+            "line1": {
+                "fr": "Diplômée en ingénierie de la sécurité informatique, je souhaite mettre à profit mes compétences dans un contrat étudiant afin de renforcer mon expérience professionnelle tout en complétant mes revenus. Je suis une jeune femme ponctuelle, sérieuse et déterminée, avec une solide formation en cybersécurité et une réelle motivation à contribuer efficacement aux projets qui me seront confiés.",
+                "en": "With a degree in IT security engineering, I want to use my skills in a student contract to strengthen my professional experience while supplementing my income. I am a punctual, serious and determined young woman, with a solid training in cybersecurity and a real motivation to contribute effectively to the projects entrusted to me."
+            },
+            "line2": {
+                "fr": "",
+                "en": ""
+            }
+        }
+    ],
+    "availability": {
+        "title": {
+            "fr": "Ouverte",
+            "en": "Open"
+        },
+        "text": {
+            "fr": "Ouverte à de nouvelles opportunités",
+            "en": "Open to new opportunities."
+        },
+        "tags": {
+            "fr": "",
+            "en": ""
+        }
+    },
+    "experiences": [],
+    "skills": [],
+    "projects": [],
+    "education": [],
+    "education_note": {
+        "title": "",
+        "text": ""
+    },
+    "certs": [],
+    "blog": [],
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "locs": [],
+        "status": "",
+        "interests": ""
+    },
+    "socials": [],
+    "ui": []
+}
